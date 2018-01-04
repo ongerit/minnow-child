@@ -1,2 +1,2 @@
 ## Child theme for Spearhead. 
-Visit blog:  [Spearhead](http://blog.spearhead.com)
+Visit blog:  [Spearhead](http://blog.spearhead.co)
